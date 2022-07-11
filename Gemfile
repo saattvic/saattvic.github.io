@@ -25,3 +25,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
+# and associated library.
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem "webrick", "~> 1.7"
