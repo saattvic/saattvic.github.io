@@ -10,26 +10,24 @@ redirect_from:
 
 ### Research Interests
 
-Industrial Organization, Antitrust, Economics of Digital Media
+Antitrust, Industrial Organization
 
 ### Working Papers
 
-No-Poaching Clauses in Franchise Agreements – Anticompetitive or Welfare Enhancing: Evidence from Restaurant Chains (with [Margaret Slade](https://economics.ubc.ca/faculty-and-staff/margaret-slade/) and [Francine Lafontaine](https://michiganross.umich.edu/faculty-research/faculty/francine-lafontaine)).
+[Procompetitive Bundling Under Credit Frictions - A Story From Indian Cinema](/files/JMP.pdf). (Job Market Paper)
 
-[Measuring Performance: Ranking State Success Over Two Decades in India](https://docs.iza.org/dp14522.pdf) (with [Amrita Dhillon](https://www.kcl.ac.uk/people/amrita-dhillon), [Farzana Afridi](https://www.isid.ac.in/~fafridi/) and [Arka Roy Chaudhuri](https://economics.snu.edu.in/people/faculty/dr-arka-roy-chaudhuri)).  R&R in Asian Journal of Economics.
+[No-Poaching Clauses in Franchise Agreements – Anticompetitive or Welfare Enhancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404155) (with [Margaret Slade](https://economics.ubc.ca/faculty-and-staff/margaret-slade/) and [Francine Lafontaine](https://michiganross.umich.edu/faculty-research/faculty/francine-lafontaine)).
 
-### Publications
+[Affirmative Action in Higher Education: A Theoretical Perspective](/files/mphil%20thesis.pdf). 
+
+### Publications and Articles
+
+[Measuring Performance: Ranking State Success Over Two Decades in India](https://www.sciencedirect.com/science/article/abs/pii/S1049007822001063) (with [Amrita Dhillon](https://www.kcl.ac.uk/people/amrita-dhillon), [Farzana Afridi](https://www.isid.ac.in/~fafridi/) and [Arka Roy Chaudhuri](https://economics.snu.edu.in/people/faculty/dr-arka-roy-chaudhuri)).  *Journal of Asian Economics*, 83. 101550.
+
+Saattvic (2021). [A Paradigm Shift in the Antitrust Analysis of Common Ownership in India](https://www.competitionpolicyinternational.com/a-paradigm-shift-in-the-antitrust-analysis-of-common-ownership-in-india/). *Competition Policy International Columns - South Asia*.
+
+Saattvic (2018). [An Antitrust Practitioner's Guide to Platform Markets: A Review of the Relevant Economic Literature](https://ssrn.com/abstract=3157537). 
 
 Gardener, H., & Saattvic (2011). Quantifying harm. Has the EU got it right in its recent draft guidance paper? *Competition Law Insight*, 10(9).
 
 Ficco, S., & Saattvic. (2011). The Surcharges Supercomplaint: An Economic Perspective. *Competition Law Insight*, 10(5).
-
-### Unpublished Work
-
-Saattvic (2018). [An Antitrust Practitioner's Guide to Platform Markets: A Review of the Relevant Economic Literature](https://ssrn.com/abstract=3157537). 
-
-Saattvic (2009).  [Affirmative Action in Higher Education: A Theoretical Perspective](/files/mphil%20thesis.pdf). University of Oxford MPhil Thesis. 
-
-### Other Writing
-
-Saattvic (2021). [A Paradigm Shift in the Antitrust Analysis of Common Ownership in India](https://www.competitionpolicyinternational.com/a-paradigm-shift-in-the-antitrust-analysis-of-common-ownership-in-india/). Competition Policy International South Asia Column.
