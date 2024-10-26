@@ -15,11 +15,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
 
-  - title: "Code"
-    url: /code/
-
-  - title: "Code 2"
-    url: /code2/
+  # - title: "Code"
+  #   url: /code/
     
   - title: "CV"
     url: /files/Saattvic_cv.pdf
