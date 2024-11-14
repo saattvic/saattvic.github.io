@@ -22,7 +22,7 @@ Antitrust, Industrial Organization
 
 ### Publications and Articles
 
-[Afridi, F.](https://www.isid.ac.in/~fafridi/), [Dhillon, A.](https://www.kcl.ac.uk/people/amrita-dhillon), [Chauthuri, A. R.](https://economics.snu.edu.in/people/faculty/dr-arka-roy-chaudhuri)), & Saattvic (2022). [Measuring Performance: Ranking State Success Over Two Decades in India](https://www.sciencedirect.com/science/article/abs/pii/S1049007822001063).  *Journal of Asian Economics*, 83. 101550.
+[Afridi, F.](https://www.isid.ac.in/~fafridi/), [Dhillon, A.](https://www.kcl.ac.uk/people/amrita-dhillon), [Chauthuri, A. R.](https://economics.snu.edu.in/people/faculty/dr-arka-roy-chaudhuri), & Saattvic (2022). [Measuring Performance: Ranking State Success Over Two Decades in India](https://www.sciencedirect.com/science/article/abs/pii/S1049007822001063).  *Journal of Asian Economics*, 83. 101550.
 
 Saattvic (2021). [A Paradigm Shift in the Antitrust Analysis of Common Ownership in India](https://www.competitionpolicyinternational.com/a-paradigm-shift-in-the-antitrust-analysis-of-common-ownership-in-india/). *Competition Policy International Columns - South Asia*.
 
