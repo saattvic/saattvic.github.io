@@ -18,7 +18,7 @@ Antitrust, Industrial Organization
 
 [No-Poaching Clauses in Franchise Agreements – Anticompetitive or Welfare Enhancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404155) (with [Margaret Slade](https://economics.ubc.ca/faculty-and-staff/margaret-slade/) and [Francine Lafontaine](https://michiganross.umich.edu/faculty-research/faculty/francine-lafontaine)).
 
-[Affirmative Action in Higher Education: A Theoretical Perspective](/files/mphil%20thesis.pdf). 
+[Affirmative Action in Higher Education: A Theoretical Perspective](/files/aa.pdf). 
 
 ### Publications and Articles
 
