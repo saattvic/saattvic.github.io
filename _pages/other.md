@@ -10,7 +10,7 @@ redirect_from:
 
 ### Consulting
 
-I am Founder and Expert at [Sapient Econ](https://www.sapient-econ.com/).  I have previously worked at several economic consultancies and law firms.  I specialize in supporting antitrust litigation.  A brief consulting bio is available [here](/files/Bio%20-%20Saattvic.pdf).
+I am Founder and Expert at [Sapient Econ](https://www.sapient-econ.com/).  I have previously worked at several economic consultancies and law firms.  I specialize in supporting antitrust litigation.  A brief consulting bio is available [here](/files/Bio%20-%20Saattvic.pdf).  I will be joining [Econic Partners](https://econicpartners.com/)' Washington DC office in June 2025.
 
 ### LGBTQ+ Activism
 
